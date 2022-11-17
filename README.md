@@ -1,3 +1,3 @@
-# Staging 1 - Pietro
+# Staging 
 Branch de staging,
 códigos sendo testados.
