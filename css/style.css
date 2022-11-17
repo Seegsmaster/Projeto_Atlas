@@ -87,7 +87,7 @@ section.menu-atlas{
 .texto-para button{
     position: relative;
     top: 230px;
-    left: 175px;
+    left: 152px;
     border: 0;
     color: white;
     font-size: 30px;
@@ -109,4 +109,42 @@ section.menu-atlas{
 .texto-para a{
     text-decoration: none;
     color: white;
+}
+
+.texto-para-atlas h1{
+    position: absolute;
+    top: 50px;
+    right: 940px;
+    font-size: 30px
+}
+
+.section-background-atlas img{
+    position: relative;
+    width: 70rem;
+    height: 40rem;
+    left: 11.3rem;
+    display: flex;
+}
+
+.selec-atlas a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+    font-size: 1.5rem;
+    display: block;
+    padding-bottom: 20px;
+}
+
+.selec-atlas a:hover{
+    font-size: 1.7rem;
+    transition: 1s;
+}
+
+.selec-atlas{
+    bottom: 15rem;
+    position: absolute;
+    left: 32rem;
+    background: white;
+    border-radius: 16px;
 }
