@@ -15,7 +15,7 @@
 
 header {
     height: 260px;
-    padding: 10px 0;
+    padding: 7px 0;
 }
 
 .logo{
@@ -69,36 +69,41 @@ section.menu-atlas{
 .section-background img{
     position: relative;
     width: 90rem;
+    left: 1.25rem;
 }
 
 .texto-para{
     position: absolute;
     top: 110px;
     right: 425px;
+    
 }
 
 .texto-para h1{
     font-size: 30px;
-    background-color: aliceblue;
+    
 }
 
 .texto-para button{
     position: relative;
-    top: 250px;
-    left: 163px;
+    top: 230px;
+    left: 175px;
     border: 0;
     color: white;
     font-size: 30px;
     background-color: #063970;
-    border-radius: 10px;
+    border-radius: 20px;
     width: 300px;
-    height: 200px;
+    height: 180px;
     cursor: pointer;
+
 }
 
 .texto-para button:hover{
     background: #1979a9;
-    transition: background 1s;
+    font-size: 33px;
+    transition: background, 1s;
+    
 }
 
 .texto-para a{
