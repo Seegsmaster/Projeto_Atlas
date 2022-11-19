@@ -164,3 +164,43 @@ body{
     background-position: top center;
     background-position-y: 13rem;
 }
+
+.texto-para-sobre h1{
+    position: absolute;
+    top: 50px;
+    right: 940px;
+    font-size: 30px
+}
+
+.selec-atlas-sobre{
+    position: absolute;
+    left: 21.5rem;
+    top: 10rem;
+    background: white;
+    border-radius: 14px;
+}
+
+.selec-atlas-sobre p{
+    font-size: 25px;
+}
+
+.selec-atlas-cont{
+    position: absolute;
+    left: 30rem;
+    top: 10rem;
+    background: white;
+    border-radius: 14px;
+}
+
+.selec-atlas-cont p{
+    font-size: 25px;
+}
+
+.center h1{
+    left: 10rem;
+}
+
+.menu-atlas-prof h1{
+    left: 7rem;
+    position: relative;
+}
